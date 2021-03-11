@@ -6,3 +6,12 @@ The program renders a chessboard with pieces on which you can move chess pieces 
 ![](image2.png)
 ![](image3.png)
 ![](image4.png)
+
+## Running Program
+
+OS X & Linux terminal:
+
+```sh
+javac *.java
+java Chess
+```
